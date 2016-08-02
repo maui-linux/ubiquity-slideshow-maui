@@ -1,4 +1,4 @@
-Source: ubiquity-slideshow-maui-1
+Source: ubiquity-slideshow-maui
 Section: x11
 Priority: optional
 Maintainer: Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>
@@ -8,7 +8,7 @@ Vcs-Bzr: https://code.launchpad.net/~ubiquity-slideshow/ubiquity-slideshow-ubunt
 Standards-Version: 3.9.4
 Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
 
-Package: ubiquity-slideshow-maui-1
+Package: ubiquity-slideshow-maui
 Architecture: all
 Provides: ubiquity-slideshow
 Conflicts: ubiquity-slideshow
