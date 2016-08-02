@@ -1,0 +1,227 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-10-29 09:46+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/netrunner/slides/1-welcome.html:1
+msgid "Welcome"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/1-welcome.html:7
+msgid "Welcome to Netrunner 5 - Enigma-II (13.12)."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/1-welcome.html:8
+msgid ""
+"We at Blue Systems believe every computer user should be free to download, "
+"use, study, adapt and share their software for any purpose."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/1-welcome.html:9
+msgid ""
+"As part of our vision, we want Netrunner to work for you as well as "
+"possible. While it installs, this slideshow will provide a quick "
+"introduction."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/netrunner/slides/1-welcome.html:12
+msgid ""
+"Netrunner is based on KDE and designed to be easy. Feel free to explore!"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/netrunner/slides/2-customize.html:1
+msgid "Customize"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/2-customize.html:7
+msgid ""
+"The <em>KDE Desktop Environment</em> is a first class citizen when it comes "
+"to customization."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/2-customize.html:8
+msgid ""
+"It allows for easy change of exactly how you want your desktop to look like "
+"and function."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/2-customize.html:9
+msgid ""
+"Get a new look from hundreds of themes freely available online or just get "
+"your hands on the Systems Settings yourself."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/netrunner/slides/3-connected.html:1
+msgid "Get Connected"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/3-connected.html:7
+msgid ""
+"Netrunner ships software necessary to utilize the Internet for many "
+"different situations:"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/3-connected.html:8
+msgid ""
+"Browse the web, share your files, send and receive e-mails and communicate "
+"with friends and family."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/3-connected.html:9
+msgid ""
+"It features the <em>Firefox</em> Browser with KDE integration, that is "
+"optimized for a great web-experience."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/netrunner/slides/4-creative.html:1
+msgid "Be Creative"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/4-creative.html:7
+msgid ""
+"Netrunner ships many productivity applications such as <em>LibreOffice</em>, "
+"<em>Gimp</em> and <em>Krita</em>."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/4-creative.html:8
+msgid "With <em>Inkscape</em>, you can create and edit vector-based images."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/4-creative.html:9
+msgid ""
+"Use <em>Gwenview</em> to organize your photos and <em>Kdenlive</em> for "
+"producing your own videos."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/netrunner/slides/5-entertained.html:1
+msgid "Let me Entertain You"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/5-entertained.html:7
+msgid "Netrunner is ready to play videos and music from CDs, DVDs and the web."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/5-entertained.html:8
+msgid ""
+"It comes with all necessary codecs and multimedia applications on board."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/5-entertained.html:9
+msgid ""
+"<em>VLC</em> allows watching videos from your computer, while Flash covers "
+"streaming them over the Internet."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/netrunner/slides/6-fun.html:1
+msgid "Have fun :)"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/6-fun.html:7
+msgid ""
+"With some classics installed and hundreds more online, Netrunner allows you "
+"to enjoy your computing."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/6-fun.html:8
+msgid ""
+"Wether it be action-paced or thinking-style, there are many libre games "
+"available, ranging from FPS games to logic and board games."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/6-fun.html:9
+msgid "Netrunner also comes with web-based titles, so the fun never stops."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/netrunner/slides/7-community.html:1
+msgid "Community"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/7-community.html:7
+msgid ""
+"The Netrunner community consists of many people, who always have a helping "
+"hand."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/7-community.html:8
+msgid ""
+"In the Free and Libre software world, there's always a solution in case of a "
+"problem."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/7-community.html:9
+msgid ""
+"Have a look at <a href=\"http://netrunner-os.com/forums\">Netrunner Forums</"
+"a> and get involved: You're very much welcomed!"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/netrunner/slides/8-thanks.html:1
+msgid "Thank you!"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/8-thanks.html:7
+msgid "Netrunner stands on the shoulder of giants."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/8-thanks.html:8
+msgid ""
+"It is the work of thousands of people, who's contributions make it a reality."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/netrunner/slides/8-thanks.html:9
+msgid ""
+"We like to say THANK YOU to all the people involved: Let's continue to shape "
+"the future, we're all in it together!"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/netrunner/slides/8-thanks.html:12
+msgid ""
+"The installation finishes soon. Thank you for choosing Netrunner, we hope "
+"you enjoy it!"
+msgstr ""
