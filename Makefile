@@ -1,4 +1,4 @@
-# Makefile for ubiquity-slideshow-netrunner
+# Makefile for ubiquity-slideshow-maui
 
 SOURCE=.
 BUILD=$(SOURCE)/build
@@ -10,10 +10,10 @@ build_init:
 	mkdir -p $(BUILD)
 
 build_netrunner: build_init
-	cp -rL $(SOURCESLIDES)/netrunner $(BUILD)
+	cp -rL $(SOURCESLIDES)/maui $(BUILD)
 
 translations:
-	./generate-local-slides.sh netrunner
+	./generate-local-slides.sh maui
 
 .PHONY : clean
 
